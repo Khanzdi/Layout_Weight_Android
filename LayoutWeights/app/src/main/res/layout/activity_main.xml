@@ -7,6 +7,7 @@
     android:background="#FAF0E6"
     tools:context="com.kevin.layoutweights.MainActivity"
     android:orientation="vertical">
+
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
